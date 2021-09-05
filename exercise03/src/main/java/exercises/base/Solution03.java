@@ -3,7 +3,7 @@
  *  Copyright 2021 Zander Preston
  */
 
-package exercises;
+package exercises.base;
 
 /*
  Write an application
@@ -43,7 +43,7 @@ public class Solution03 {
             name = input.nextLine();
         }
 
-        System.out.println(name + " says, \"" + quote + "\""); //Print out the person and their quote.
+        System.out.println(name + " says, \"" + quote + "\"."); //Print out the person and their quote.
 
     }
 }
